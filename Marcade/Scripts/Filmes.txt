@@ -1,0 +1,16 @@
+create database filmes;
+use filmes;
+
+select * from filme;
+
+
+create table filme (id int(4) not null auto_increment,
+                      titulo varchar(255),
+                      ano int(4),
+					  genero varchar(50),
+                      assistido varchar(5),
+                      ator varchar(255),
+                      diretor varchar(255),
+                      primary key (id))
+                      ENGINE = innodb;
+

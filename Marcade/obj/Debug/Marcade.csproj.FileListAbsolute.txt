@@ -1,0 +1,73 @@
+c:\users\hugo\documents\visual studio 2015\Projects\Marcade\Marcade\bin\Debug\Marcade.exe.config
+C:\Users\Hugo\documents\visual studio 2015\Projects\Marcade\Marcade\bin\Debug\Marcade.exe
+C:\Users\Hugo\documents\visual studio 2015\Projects\Marcade\Marcade\bin\Debug\Marcade.pdb
+C:\Users\Hugo\documents\visual studio 2015\Projects\Marcade\Marcade\bin\Debug\MySql.Data.dll
+C:\Users\Hugo\documents\visual studio 2015\Projects\Marcade\Marcade\bin\Debug\MySql.Data.xml
+C:\Users\Hugo\documents\visual studio 2015\Projects\Marcade\Marcade\obj\Debug\Marcade.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\documents\visual studio 2015\Projects\Marcade\Marcade\obj\Debug\Marcade.frmTelaInicial.resources
+C:\Users\Hugo\documents\visual studio 2015\Projects\Marcade\Marcade\obj\Debug\Marcade.Properties.Resources.resources
+C:\Users\Hugo\documents\visual studio 2015\Projects\Marcade\Marcade\obj\Debug\Marcade.csproj.GenerateResource.Cache
+C:\Users\Hugo\documents\visual studio 2015\Projects\Marcade\Marcade\obj\Debug\Marcade.exe
+C:\Users\Hugo\documents\visual studio 2015\Projects\Marcade\Marcade\obj\Debug\Marcade.pdb
+C:\Users\Hugo\documents\visual studio 2015\Projects\Marcade\Marcade\obj\Debug\Marcade.Formularios.frmTelaAtor.resources
+C:\Users\Hugo\documents\visual studio 2015\Projects\Marcade\Marcade\obj\Debug\Marcade.Formularios.frmTelaDiretor.resources
+C:\Users\um2.9322749411\Documents\Visual Studio 2012\Projects\Marcade\bin\Debug\Marcade.exe.config
+C:\Users\um2.9322749411\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.exe
+C:\Users\um2.9322749411\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.pdb
+C:\Users\um2.9322749411\Documents\Visual Studio 2012\Projects\Marcade\bin\Debug\Marcade.exe
+C:\Users\um2.9322749411\Documents\Visual Studio 2012\Projects\Marcade\bin\Debug\Marcade.pdb
+C:\Users\um2.9322749411\Documents\Visual Studio 2012\Projects\Marcade\bin\Debug\MySql.Data.dll
+C:\Users\um2.9322749411\Documents\Visual Studio 2012\Projects\Marcade\bin\Debug\MySql.Data.xml
+C:\Users\um2.9322749411\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.csprojResolveAssemblyReference.cache
+C:\Users\um2.9322749411\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.frmTelaInicial.resources
+C:\Users\um2.9322749411\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.Formularios.frmTelaAtor.resources
+C:\Users\um2.9322749411\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.Formularios.frmTelaDiretor.resources
+C:\Users\um2.9322749411\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.Properties.Resources.resources
+C:\Users\um2.9322749411\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\MARCADE\bin\Debug\Marcade.exe.config
+C:\Users\aluno\Desktop\MARCADE\obj\Debug\Marcade.exe
+C:\Users\aluno\Desktop\MARCADE\obj\Debug\Marcade.pdb
+C:\Users\aluno\Desktop\MARCADE\bin\Debug\Marcade.exe
+C:\Users\aluno\Desktop\MARCADE\bin\Debug\Marcade.pdb
+C:\Users\aluno\Desktop\MARCADE\bin\Debug\MySql.Data.xml
+C:\Users\aluno\Desktop\MARCADE\obj\Debug\Marcade.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\MARCADE\obj\Debug\WindowsFormsApplication1.frmCadastro.resources
+C:\Users\aluno\Desktop\MARCADE\obj\Debug\Marcade.frmTelaInicial.resources
+C:\Users\aluno\Desktop\MARCADE\obj\Debug\Marcade.Formularios.frmTelaAtor.resources
+C:\Users\aluno\Desktop\MARCADE\obj\Debug\Marcade.Formularios.frmTelaDiretor.resources
+C:\Users\aluno\Desktop\MARCADE\obj\Debug\Marcade.Properties.Resources.resources
+C:\Users\aluno\Desktop\MARCADE\obj\Debug\Marcade.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\MARCADE\obj\Debug\WindowsFormsApplication1.frmMenu.resources
+C:\Users\aluno\Desktop\MARCADE\obj\Debug\Marcade.frmConsulta.resources
+C:\Users\Hugo\documents\visual studio 2015\Projects\Marcade\bin\Debug\Marcade.exe.config
+C:\Users\Hugo\documents\visual studio 2015\Projects\Marcade\obj\Debug\Marcade.exe
+C:\Users\Hugo\documents\visual studio 2015\Projects\Marcade\obj\Debug\Marcade.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\Marcade\bin\Debug\Marcade.exe
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\Marcade\bin\Debug\Marcade.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\Marcade\bin\Debug\MySql.Data.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\Marcade\bin\Debug\MySql.Data.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\Marcade\obj\Debug\Marcade.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\Marcade\obj\Debug\Marcade.frmCadastro.resources
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\Marcade\obj\Debug\Marcade.frmMenu.resources
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\Marcade\obj\Debug\Marcade.Formularios.frmAssistidos.resources
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\Marcade\obj\Debug\Marcade.Formularios.frmInformacao.resources
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\Marcade\obj\Debug\Marcade.Properties.Resources.resources
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\Marcade\obj\Debug\Marcade.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Marcade\bin\Debug\Marcade.exe.config
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.exe
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.pdb
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Marcade\bin\Debug\Marcade.exe
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Marcade\bin\Debug\Marcade.pdb
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Marcade\bin\Debug\MySql.Data.xml
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.frmCadastro.resources
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.frmMenu.resources
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.Formularios.frmAssistidos.resources
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.Formularios.frmInformacao.resources
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.frmTelaInicial.resources
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.Formularios.frmTelaAtor.resources
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.Formularios.frmTelaDiretor.resources
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.Properties.Resources.resources
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Marcade\obj\Debug\Marcade.csproj.GenerateResource.Cache
+C:\Users\Hugo\documents\visual studio 2015\Projects\Marcade\obj\Debug\Marcade.Formularios.ListaDeFilmesAssistidos.resources
+C:\Users\Hugo\documents\visual studio 2015\Projects\Marcade\obj\Debug\Marcade.frmTelaPesquisa.resources
